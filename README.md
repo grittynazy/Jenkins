@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jenkins-Zero-To-Hero
 
 Are you looking forward to learn Jenkins right from Zero(installation) to Hero(Build end to end pipelines)? then you are at the right place. 
@@ -134,3 +135,6 @@ The docker agent configuration is now successful.
 
 
 
+=======
+# Jenkins
+>>>>>>> 5a3c723a6e2b50b77733904ef824e6087b720f9a
